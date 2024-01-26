@@ -52,4 +52,4 @@ Train and test a fully connected neural network to recognize images in a subset 
 
 13. **Anomaly Detection on Synthetic Data**  
 Run anomaly detection algorithms on synthetic data consisting of two two-dimensional isotropic Gaussian blobs as inliers and uniformly distributed data points as outliers.  
-(<a href="https://colab.research.google.com/drive/1P-_fSPSFSS9YaH6V2N6Ke8KhcEM8DvCh?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/012_anomalyDetectionOnSyntheticData/anomalyDetectionOnSyntheticData.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
+(<a href="https://colab.research.google.com/drive/1KO9yFX2ap08z91AmCb9OcxZVdO8CA_LA?usp=sharing">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/012_anomalyDetectionOnSyntheticData/anomalyDetectionOnSyntheticData.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
