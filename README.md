@@ -51,5 +51,5 @@ Train and test a fully connected neural network to recognize images in a subset 
 (<a href="https://colab.research.google.com/drive/1nMeL5ID6UBGzKAAWdB9MEB1K2oJ7Vy6I?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bern429/AI-ML-DS-Excursions/blob/main/011_imageRecognitionOnCIFAR/imageRecognitionOnCIFAR.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
 13. **Anomaly Detection on Synthetic Data**  
-Run anomaly detection algorithms on synthetic data consisting of two two-dimensional isotropic Gaussian blobs as inliers and uniformly distributed data points as outliers.  
-(<a href="https://colab.research.google.com/drive/1KO9yFX2ap08z91AmCb9OcxZVdO8CA_LA?usp=sharing">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/012_anomalyDetectionOnSyntheticData/anomalyDetectionOnSyntheticData.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
+Run anomaly detection algorithms on synthetic data using `scikit-learn` and `pyod`.  
+(<a href="https://colab.research.google.com/drive/1KO9yFX2ap08z91AmCb9OcxZVdO8CA_LA?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/012_anomalyDetectionOnSyntheticData/anomalyDetectionOnSyntheticData.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
