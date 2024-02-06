@@ -52,4 +52,9 @@ Train and test a fully connected neural network to recognize images in a subset 
 
 13. **Anomaly Detection on Synthetic Data**  
 Run anomaly detection algorithms on synthetic data using `scikit-learn` and `pyod`.  
-(<a href="https://colab.research.google.com/drive/1KO9yFX2ap08z91AmCb9OcxZVdO8CA_LA?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/012_anomalyDetectionOnSyntheticData/anomalyDetectionOnSyntheticData.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
+(<a href="https://colab.research.google.com/drive/1KO9yFX2ap08z91AmCb9OcxZVdO8CA_LA?usp=[sharing](https://colab.research.google.com/drive/11aF1g7O86iB9VvIglxZwHWQmkanSw8cm?usp=sharing)" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/012_anomalyDetectionOnSyntheticData/anomalyDetectionOnSyntheticData.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
+
+14. **Anomaly Detection on Healthcare Providers Data**  
+Run anomaly detection algorithms on healthcare providers data from *Kaggle*.  
+(<a href="" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/013_anomalyDetectionOnHealthcareProvidersData/anomalyDetectionOnHealthcareProvidersData.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
+
