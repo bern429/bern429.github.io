@@ -57,3 +57,8 @@ Run anomaly detection algorithms on synthetic data using `scikit-learn` and `pyo
 14. **Anomaly Detection on Healthcare Providers Data**  
 Run anomaly detection algorithms on healthcare providers data from *Kaggle*.  
 (<a href="https://colab.research.google.com/drive/1JIqCZJ1q9Kt4XMe01WCjbdFieeveSaeI?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/013_anomalyDetectionOnHealthcareProvidersData/anomalyDetectionOnHealthcareProvidersData.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
+
+15. **Regular Expressions**  
+Provide examples of working with regular expressions using `re`.  
+(<a href="https://colab.research.google.com/drive/1YTfuakqArnW37PXgwu2lfarS5DXw40j5?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/014_regularExpressions/regularExpressions.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
+
