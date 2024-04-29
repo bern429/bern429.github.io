@@ -63,6 +63,6 @@ Provide examples of working with regular expressions using `re`.
 (<a href="https://colab.research.google.com/drive/1YTfuakqArnW37PXgwu2lfarS5DXw40j5?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/014_regularExpressions/regularExpressions.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
 16. **Classification App**  
-Walk the user through the steps in training and testing one or more binary classifiers using a selection of algorithms that are implemented in scikit-learn.  
+Walk the user through the steps in training and testing one or more binary classifiers using a selection of algorithms that are implemented in `scikit-learn`.  
 (<a href="https://scikit-learnclassification.streamlit.app/" target="_blank" rel="noopener noreferrer">Streamlit</a> | <a href="https://github.com/bmarquez429/Classification-App" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
