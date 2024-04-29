@@ -1,6 +1,6 @@
 **Bernardo Marquez** (<a href="http://www.linkedin.com/in/bernardo-marquez-1266476" target="_blank" rel="noopener noreferrer">LinkedIn</a>)
 
-This page lists notebooks that I have created in Google Colab to demonstrate various concepts and algorithms in Artificial Intelligence/Machine Learning/Data Science. The notebooks are currently listed in the order that they were created. When there are already sufficiently many notebooks in this page, I will organize them by themes.
+This page lists notebooks that I have created in Google Colab as well as scripts that I have created locally to demonstrate various concepts and algorithms in Artificial Intelligence/Machine Learning/Data Science. The notebooks and scripts are currently listed in the order that they were created. When there are already sufficiently many notebooks and scripts in this page, I will organize them by themes.
 
 1. **Pretrained Image Recognition Models**  
 Load and run two pretrained image recognition models. The models are called *AlexNet* and *ResNet*. These models were trained on a subset of the *ImageNet* dataset. In the notebook, each model is run on an image that was taken from a *Kaggle* dataset.  
