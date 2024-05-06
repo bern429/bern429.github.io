@@ -47,7 +47,7 @@ Determine the relative importance of predictors using dominance analysis when fi
 (<a href="https://colab.research.google.com/drive/19oVz5iEv36a-dyl1-ST-SUa8lnb6w4dH?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bern429/AI-ML-DS-Excursions/blob/main/010_dominanceAnalysis/dominanceAnalysis.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
 12. **Image Recognition on CIFAR-10**  
-Train and test a fully connected neural network to recognize images in a subset of the *CIFAR-10* dataset.  
+Train and test neural networks to recognize images in a subset of the *CIFAR-10* dataset.  
 (<a href="https://colab.research.google.com/drive/1nMeL5ID6UBGzKAAWdB9MEB1K2oJ7Vy6I?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bern429/AI-ML-DS-Excursions/blob/main/011_imageRecognitionOnCIFAR/imageRecognitionOnCIFAR.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
 13. **Anomaly Detection on Synthetic Data**  
