@@ -16,7 +16,7 @@ Extract tabular data from a pdf document using `tabula-py` and `camelot-py`.
  
 4. **AutoML**  
 Train and test predictive models on the heart disease prediction dataset from *Kaggle* using the following AutoML libraries: `auto-sklearn`, `H2O AutoML`, `PyCaret`, and `TPOT`.  
-(<a href="https://colab.research.google.com/drive/1HXI8TcurZD3pB1rhjLWmIeadlNtVPSXq?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bern429/AI-ML-DS-Excursions/blob/main/003_autoML/autoML.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
+(<a href="https://colab.research.google.com/drive/11_xYY1-zCRo13LW-gKwJk3_XBbMSDwp5?usp=drive_link" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/tree/main/003_autoML" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
 5. **Data Standardization**  
 Standardize data using basic `pandas` operations or using the `fit`, `transform`, and `fit_transform` methods of `sklearn.preprocessing.StandardScaler()`.  
