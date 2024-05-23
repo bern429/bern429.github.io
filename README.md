@@ -36,7 +36,7 @@ Fit a neural network to synthetic training data. Data is first generated from a 
   
 9. **Feature Importance**  
 Display different types of feature importance after training predictive models on the bank customer churn dataset from *Kaggle*. The feature importance scores are calculated based on one of the following: absolute value of standardized coefficients, mean decrease in Gini impurity, permutation importance, and `SHAP` values.  
-(<a href="https://colab.research.google.com/drive/1V7_oIL2TZvZkAdQbMvQtkgspHvsStgoY?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bern429/AI-ML-DS-Excursions/blob/main/008_featureImportance/featureImportance.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
+(<a href="https://colab.research.google.com/drive/1ZV2YZYOhdJU6VGJt02r9JkoSekH5fBvH?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bern429/AI-ML-DS-Excursions/blob/main/008_featureImportance/featureImportance.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
   
 10. **SHAP**  
 Display different types of `SHAP` plots after training an XGBoost regression model on the Boston house prices dataset from *Kaggle*.  
