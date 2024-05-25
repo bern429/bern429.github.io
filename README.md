@@ -68,5 +68,5 @@ Walk the user through the steps in training and testing one or more binary class
 
 17. **Multiple Linear Regression**  
 Fit a multiple linear regression model to the car price prediction dataset from *Kaggle* to predict the price of a car.  
-(<a href="https://colab.research.google.com/drive/1dLCVQWpzO8qfBUnPky-E5T2kC9Uk8XBX?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/016_multipleLinearRegression/multipleLinearRegression.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
+(<a href="https://colab.research.google.com/drive/1zRJ_BQonj6Tb7sLg8hDzJx5qA7aMWeqT?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/016_multipleLinearRegression/multipleLinearRegression.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
