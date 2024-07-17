@@ -72,5 +72,5 @@ Fit a multiple linear regression model to the car price prediction dataset from 
 
 18. **csv vs. parquet files**  
 Compare the file sizes and read times of csv and parquet files that store randomly-generated dataframes..  
-(<a href="https://colab.research.google.com/drive/1beXRsY6brFrEl6w-9bff7oaFu2c1Rptu?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/017_csvVsParquetFiles/csvVsParquetFiles.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
+(<a href="https://colab.research.google.com/drive/1FV2RF1GZ0Mr0mtP4af42QMw-RcNYVlqZ?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/017_csvVsParquetFiles/csvVsParquetFiles.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
