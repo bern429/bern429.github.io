@@ -71,9 +71,9 @@ Fit a multiple linear regression model to the car price prediction dataset from 
 (<a href="https://colab.research.google.com/drive/1zRJ_BQonj6Tb7sLg8hDzJx5qA7aMWeqT?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/016_multipleLinearRegression/multipleLinearRegression.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
 19. **csv vs. parquet files**  
-Compare the file sizes and read times of csv and parquet files that store randomly-generated dataframes.
+Compare the file sizes and read times of csv and parquet files that store randomly-generated dataframes.  
 (<a href="https://colab.research.google.com/drive/1FV2RF1GZ0Mr0mtP4af42QMw-RcNYVlqZ?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/017_csvVsParquetFiles/csvVsParquetFiles.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
 20. **pandas dataframes vs. pyarrow tables**  
-Compare the memory usage of pandas dataframes and pyarrow tables.
+Compare the memory usage of pandas dataframes and pyarrow tables.  
 (<a href="https://colab.research.google.com/drive/18sR_Y--YvjNDMvVpddi9LnD0RkOLLLI6?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/018_pdDataframesVsPaTables/pdDataframesVsPaTables.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
