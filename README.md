@@ -18,59 +18,62 @@ Extract tabular data from a pdf document using `tabula-py` and `camelot-py`.
 Train and test predictive models on the heart disease prediction dataset from *Kaggle* using the following AutoML libraries: `auto-sklearn`, `H2O AutoML`, `PyCaret`, and `TPOT`.  
 (<a href="https://colab.research.google.com/drive/11_xYY1-zCRo13LW-gKwJk3_XBbMSDwp5?usp=drive_link" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/tree/main/003_autoML" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
-5. **Data Standardization**  
+6. **Data Standardization**  
 Standardize data using basic `pandas` operations or using the `fit`, `transform`, and `fit_transform` methods of `sklearn.preprocessing.StandardScaler()`.  
 (<a href="https://colab.research.google.com/drive/1J_WzeYM6ySVN0JyjgvQwoRLp-MAPtwhx?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bern429/AI-ML-DS-Excursions/blob/main/004_dataStandardization/dataStandardization.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
    
-6. **Tensor Representation**  
+7. **Tensor Representation**  
 Load different types of data and represent them as tensors.  
 (<a href="https://colab.research.google.com/drive/1anyc1ZZyqe41KDik8Mo95i9kLdNtUcao?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bern429/AI-ML-DS-Excursions/blob/main/005_tensorRepresentation/tensorRepresentation.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
-7. **Forward and Backward Propagation**  
+8. **Forward and Backward Propagation**  
 Use a sequence of forward and backward propagation to estimate the intercept and coefficient of a simple linear regression model. Data is first generated from a specified simple linear regression model. The simulated data is then passed to a sequence of alternating forward and backward propagation.  
 (<a href="https://colab.research.google.com/drive/10qo5H_ZvA4Lq5dKXN-YVYNv89x_WsMQF?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bern429/AI-ML-DS-Excursions/blob/main/006_forwardBackwardPropagation/forwardBackwardPropagation.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
   
-8. **Neural Network on Synthetic Data**  
+9. **Neural Network on Synthetic Data**  
 Fit a neural network to synthetic training data. Data is first generated from a specified univariate function. The synthetic data is split into training and test sets, which are then passed to a sequence of alternating forward and backward propagation.  
 (<a href="https://colab.research.google.com/drive/1XGyd3w9uujVBdEOY95ocCOzBnh3_2Fn0?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bern429/AI-ML-DS-Excursions/blob/main/007_neuralNetworkOnSyntheticData/neuralNetworkOnSyntheticData.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
   
-9. **Feature Importance**  
+10. **Feature Importance**  
 Display different types of feature importance after training predictive models on the bank customer churn dataset from *Kaggle*. The feature importance scores are calculated based on one of the following: absolute value of standardized coefficients, mean decrease in Gini impurity, permutation importance, and `SHAP` values.  
 (<a href="https://colab.research.google.com/drive/1ZV2YZYOhdJU6VGJt02r9JkoSekH5fBvH?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bern429/AI-ML-DS-Excursions/blob/main/008_featureImportance/featureImportance.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
   
-10. **SHAP**  
+11. **SHAP**  
 Display different types of `SHAP` plots after training an XGBoost regression model on the Boston house prices dataset from *Kaggle*.  
 (<a href="https://colab.research.google.com/drive/1DPyuYi0A1mLqzJsQ594_zFz3nVoeF76s?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bern429/AI-ML-DS-Excursions/blob/main/009_shap/shap.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
-11. **Dominance Analysis**  
+12. **Dominance Analysis**  
 Determine the relative importance of predictors using dominance analysis when fitting a multiple regression model to the insurance premium prediction dataset from *Kaggle* to predict expenses.  
 (<a href="https://colab.research.google.com/drive/16lF7sJYx2JxdXJE5iWyA3TwVUA-NUIF2?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bern429/AI-ML-DS-Excursions/blob/main/010_dominanceAnalysis/dominanceAnalysis.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
-12. **Image Recognition on CIFAR-10**  
+13. **Image Recognition on CIFAR-10**  
 Train and test neural networks to recognize images in a subset of the *CIFAR-10* dataset.  
 (<a href="https://colab.research.google.com/drive/1nMeL5ID6UBGzKAAWdB9MEB1K2oJ7Vy6I?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bern429/AI-ML-DS-Excursions/blob/main/011_imageRecognitionOnCIFAR/imageRecognitionOnCIFAR.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
-13. **Anomaly Detection on Synthetic Data**  
+14. **Anomaly Detection on Synthetic Data**  
 Run anomaly detection algorithms on synthetic data using `scikit-learn` and `pyod`.  
 (<a href="https://colab.research.google.com/drive/1KO9yFX2ap08z91AmCb9OcxZVdO8CA_LA?usp=[sharing](https://colab.research.google.com/drive/11aF1g7O86iB9VvIglxZwHWQmkanSw8cm?usp=sharing)" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/012_anomalyDetectionOnSyntheticData/anomalyDetectionOnSyntheticData.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
-14. **Anomaly Detection on Healthcare Providers Data**  
+15. **Anomaly Detection on Healthcare Providers Data**  
 Run anomaly detection algorithms on healthcare providers data from *Kaggle*.  
 (<a href="https://colab.research.google.com/drive/1JIqCZJ1q9Kt4XMe01WCjbdFieeveSaeI?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/013_anomalyDetectionOnHealthcareProvidersData/anomalyDetectionOnHealthcareProvidersData.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
-15. **Regular Expressions**  
+16. **Regular Expressions**  
 Provide examples of working with regular expressions using `re`.  
 (<a href="https://colab.research.google.com/drive/1YTfuakqArnW37PXgwu2lfarS5DXw40j5?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/014_regularExpressions/regularExpressions.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
-16. **Classification App**  
+17. **Classification App**  
 Walk the user through the steps in training and testing one or more binary classifiers using a selection of algorithms that are implemented in `scikit-learn`.  
 (<a href="https://scikit-learnclassification.streamlit.app/" target="_blank" rel="noopener noreferrer">Streamlit</a> | <a href="https://github.com/bmarquez429/Classification-App" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
-17. **Multiple Linear Regression**  
+18. **Multiple Linear Regression**  
 Fit a multiple linear regression model to the car price prediction dataset from *Kaggle* to predict the price of a car.  
 (<a href="https://colab.research.google.com/drive/1zRJ_BQonj6Tb7sLg8hDzJx5qA7aMWeqT?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/016_multipleLinearRegression/multipleLinearRegression.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
-18. **csv vs. parquet files**  
-Compare the file sizes and read times of csv and parquet files that store randomly-generated dataframes..  
+19. **csv vs. parquet files**  
+Compare the file sizes and read times of csv and parquet files that store randomly-generated dataframes.
 (<a href="https://colab.research.google.com/drive/1FV2RF1GZ0Mr0mtP4af42QMw-RcNYVlqZ?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/017_csvVsParquetFiles/csvVsParquetFiles.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
+20. **pandas dataframes vs. pyarrow tables**  
+Compare the memory usage of pandas dataframes and pyarrow tables.
+(<a href="https://colab.research.google.com/drive/18sR_Y--YvjNDMvVpddi9LnD0RkOLLLI6?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/018_pdDataframesVsPaTables/pdDataframesVsPaTables.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
