@@ -80,4 +80,4 @@ Compare the memory usage of pandas dataframes and pyarrow tables.
 
 21. **Sentiment Analysis**  
 Run a sentiment analysis on a movie reviews dataset from *Kaggle* by training and testing classifiers using `scikit-learn` and by testing a classifier using a pretrained model from *Hugging Face*.  
-(<a href="https://colab.research.google.com/drive/1uCPFkH-vilbMk56qWKZd5lTFFCD6D0W3?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/019_sentimentAnalysisUsingScikit-learn/sentimentAnalysisUsingScikit-learn.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
+(<a href="https://colab.research.google.com/drive/1pWdtem75_lwzKoHhrkQ1fej4XYIXpM3v?usp=drive_link" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/019_sentimentAnalysis/sentimentAnalysis.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
