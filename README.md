@@ -78,6 +78,6 @@ Compare the file sizes and read times of csv and parquet files that store random
 Compare the memory usage of pandas dataframes and pyarrow tables.  
 (<a href="https://colab.research.google.com/drive/18sR_Y--YvjNDMvVpddi9LnD0RkOLLLI6?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/018_pdDataframesVsPaTables/pdDataframesVsPaTables.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
 
-21. **Sentiment Analysis Using `scikit-learn`**  
-Use `scikit-learn` to train and test classifiers for sentiment analysis on a movie reviews dataset from *Kaggle*.  
+21. **Sentiment Analysis**
+Run a sentiment analysis on a movie reviews dataset from *Kaggle* by training and testing classifiers using `scikit-learn` and by testing a classifier using a pretrained model from Hugging Face.
 (<a href="https://colab.research.google.com/drive/1uCPFkH-vilbMk56qWKZd5lTFFCD6D0W3?usp=sharing" target="_blank" rel="noopener noreferrer">Colab</a> | <a href="https://github.com/bmarquez429/AI-ML-DS-Excursions/blob/main/019_sentimentAnalysisUsingScikit-learn/sentimentAnalysisUsingScikit-learn.ipynb" target="_blank" rel="noopener noreferrer">GitHub</a>)
